@@ -10,6 +10,10 @@
 
 ## Installation
 
+Clone repository to
+
 ```
-composer require rockujemy/rockcore-wp-plugin
+your-wordpress/wp-content/plugins
 ```
+
+and activate it in admin panel
