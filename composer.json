@@ -1,4 +1,12 @@
 {
+    "name": "rockujemy/rockcore-wp-plugin",
+    "description": "Plugin provides the foundation for all Rockujemy plugins",
+    "authors": [
+        {
+            "name": "Grzegorz Jamróz",
+            "email": "grzegorz.jamrooz@gmail.com"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "RockujemyCore\\": "src/"
